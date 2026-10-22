@@ -43,7 +43,7 @@ Ask Claude things like:
    [airframe.ai](https://www.airframe.ai).
 3. Ask a question about any software company or market.
 
-Setup help and troubleshooting: [airframe.ai/help](https://www.airframe.ai/help).
+Setup for 18 clients, the tools reference, and troubleshooting: [airframe.ai/docs](https://www.airframe.ai/docs).
 
 ## Data and privacy
 

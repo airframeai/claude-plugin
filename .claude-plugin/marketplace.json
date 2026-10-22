@@ -7,7 +7,7 @@
   },
   "metadata": {
     "description": "Airframe Decision Intelligence for Claude \u2014 live software product data, market research, negotiated-pricing intelligence, and an expert network.",
-    "version": "0.3.0"
+    "version": "0.3.1"
   },
   "plugins": [
     {

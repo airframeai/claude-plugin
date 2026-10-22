@@ -1,0 +1,22 @@
+{
+  "name": "airframe",
+  "version": "0.3.0",
+  "description": "Airframe Decision Intelligence \u2014 company research, competitive intelligence, market analysis, and software pricing grounded in Airframe's live catalog of 7,300+ products and 30,000+ practitioners.",
+  "author": {
+    "name": "Airframe",
+    "email": "support@airframe.ai",
+    "url": "https://www.airframe.ai"
+  },
+  "homepage": "https://www.airframe.ai",
+  "repository": "https://github.com/airframeai/claude-plugin",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://www.airframe.ai/compliance/privacy-policy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": [
+    "company research",
+    "competitive intelligence",
+    "market analysis",
+    "software pricing",
+    "vendor selection"
+  ]
+}

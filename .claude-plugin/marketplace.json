@@ -1,0 +1,24 @@
+{
+  "name": "airframe",
+  "owner": {
+    "name": "Airframe",
+    "email": "support@airframe.ai",
+    "url": "https://www.airframe.ai"
+  },
+  "metadata": {
+    "description": "Airframe Decision Intelligence for Claude \u2014 live software product data, market research, negotiated-pricing intelligence, and an expert network.",
+    "version": "0.3.0"
+  },
+  "plugins": [
+    {
+      "name": "airframe",
+      "source": "./plugins/airframe",
+      "description": "Airframe MCP connector plus a company-research skill: vendor briefs, competitive intelligence, market landscapes, and pricing \u2014 grounded in Airframe's continuously refreshed catalog.",
+      "author": {
+        "name": "Airframe",
+        "url": "https://www.airframe.ai"
+      },
+      "category": "research"
+    }
+  ]
+}
